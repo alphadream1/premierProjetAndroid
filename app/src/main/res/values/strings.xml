@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mon Premier Projet</string>
+    <string name="nom">Nom</string>
+    <string name="ferraris">Ferraris</string>
+    <string name="pr_nom">Prénom</string>
+    <string name="philippe">Philippe</string>
+    <string name="eleve">Élève</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="enseignant">Enseignant</string>
+    <string name="ajouter_plusieurs">Ajouter Plusieurs</string>
+    <string name="supprimer_dernier">Supprimer Dernier</string>
+    <string name="console">Console</string>
+</resources>
